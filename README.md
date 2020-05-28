@@ -1,4 +1,4 @@
-# zp_crawler
-zp crawler
+# Zen Pencils Downloader
 
-This basically navigates through the ZP website and downloads all the comics onto the local machine in pdf format. 
+Zen Pencils is a website featuring beautiful illustrations.
+The script navigates through the entire website and downloads all the comics onto your local machine in pdf format. 
